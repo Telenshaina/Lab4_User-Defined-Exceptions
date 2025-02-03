@@ -1,4 +1,4 @@
-In this Assignment, this User is able to:
+In this Activity, this User is able to:
 
 Create two user-defined exceptions (name your own exceptions) 
 that validate number of login tries of a user with a password.  
@@ -7,4 +7,4 @@ If user already exceeds the third try, a user-defined exception will handle it.
 If user has entered an invalid password, another user-defined exception will handle it.  
 Make "password" as the valid password.
 
-TELEN,SHAINA BLESSY MEIR T. 2BSCs 1
+TELEN,SHAINA BLESSY MEIR T. 2BSCS 1 - LAB ACTIVITY 4
